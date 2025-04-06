@@ -50,3 +50,19 @@ o   Natural logarithm (log base e) of the number
 o   Sine of the number (in radians)
 3.   Displays the calculated results.
 ![Screenshot 2025-04-06 232000](https://github.com/user-attachments/assets/66fa13fd-3b46-40c6-9661-216d2c598d88)
+
+## Assignment 4 ##
+## Task 7: Read a File and Handle Errors 
+Problem Statement:  Write a Python program that
+1.   Opens and reads a text file named sample.txt.
+2.   Prints its content line by line.
+3.   Handles errors gracefully if the file does not exist.
+![Screenshot 2025-04-06 233923](https://github.com/user-attachments/assets/a90f833d-fddc-45ce-9c83-d2284d05bd68)
+
+## Task 8: Write and Append Data to a File 
+Problem Statement: Write a Python program that:
+1.   Takes user input and writes it to a file named output.txt.
+2.   Appends additional data to the same file.
+3.   Reads and displays the final content of the file.
+![Screenshot 2025-04-05 185710](https://github.com/user-attachments/assets/5a72caf3-648e-4a27-a84b-356c472e4bd2)
+
