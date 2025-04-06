@@ -17,3 +17,18 @@ Problem Statement: Write a Python program that:
 2.  Concatenates the first name and last name into a full name.
 3.  Prints a personalized greeting message using the full name.
 ![Screenshot 2025-04-05 220551](https://github.com/user-attachments/assets/bf17e854-f4ed-49ad-914e-cf402e2ac1e8)
+
+## Assignment 2 ##
+### Task 1: Check if a Number is Even or Odd
+Problem Statement:  Write a Python program that:
+1. 	Takes an integer input from the user.
+2. 	Checks whether the number is even or odd using an if-else statement.
+3. 	Displays the result accordingly.
+![CheckInteger](https://github.com/user-attachments/assets/f6acee01-7008-478f-83d5-9a61a120677b)
+
+### Task 2: Sum of Integers from 1 to 50 Using a Loop
+Problem Statement: Write a Python program that:
+1.   Uses a for loop to iterate over numbers from 1 to 50.
+2.   Calculates the sum of all integers in this range.
+3.   Displays the final sum.
+![SumofInteger](https://github.com/user-attachments/assets/e32b210b-1c1a-43b0-8b0c-257d8efea93d)
