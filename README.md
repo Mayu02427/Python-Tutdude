@@ -72,5 +72,5 @@ Problem Statement: Write a Python program that:
 2.   Appends additional data to the same file.
 3.   Reads and displays the final content of the file.
    
-![Screenshot 2025-04-05 185710](https://github.com/user-attachments/assets/5a72caf3-648e-4a27-a84b-356c472e4bd2)
+![Screenshot 2025-04-06 234730](https://github.com/user-attachments/assets/e49a0e3e-58da-4d5e-ae19-69b802b15083)
 
