@@ -74,3 +74,23 @@ Problem Statement: Write a Python program that:
    
 ![Screenshot 2025-04-06 234730](https://github.com/user-attachments/assets/e49a0e3e-58da-4d5e-ae19-69b802b15083)
 
+## Assignment 5 ##
+## Task 9: Create a Dictionary of Student Marks
+Problem Statement: Write a Python program that:
+1.   Creates a dictionary where student names are keys and their marks are values.
+2.   Asks the user to input a student's name.
+3.   Retrieves and displays the corresponding marks.
+4.   If the student’s name is not found, display an appropriate message.
+
+   ![Screenshot 2025-04-09 095118](https://github.com/user-attachments/assets/2fda59b0-5e0a-4480-bbf5-37abe32c6537)
+
+## Task 10: Demonstrate List Slicing 
+Problem Statement: Write a Python program that:
+1.   Creates a list of numbers from 1 to 10.
+2.   Extracts the first five elements from the list.
+3.   Reverses these extracted elements.
+4.   Prints both the extracted list and the reversed list
+
+![Screenshot 2025-04-09 095151](https://github.com/user-attachments/assets/310b3925-44b3-4ed2-8261-4b816586ab1e)
+
+   
